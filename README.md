@@ -1,4 +1,4 @@
-# NXT-Wheelchair-Joystick-HW
+# NXT Wheelchair Joystick HW
 Hardware elements of the RIT Neurotechnology Exploration Team's (NXT) wheelchair joystick manipulator.
 
 
