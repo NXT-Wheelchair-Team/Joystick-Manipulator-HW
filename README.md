@@ -1,5 +1,5 @@
-# NXT-Wheelchair-Joystick-HW
-Hardware elements of the RIT Neurotechnology Team's wheelchair joystick manipulator.
+# NXT Wheelchair Joystick HW
+Hardware elements of the RIT Neurotechnology Exploration Team's (NXT) wheelchair joystick manipulator.
 
 
 if onshape is still breathing here is the rough CAD 
